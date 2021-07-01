@@ -25,7 +25,9 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Change directory
-        run: cd ~/htdocs
+        run: |
+          cd /Users/battulga/htdocs
+          pwd
         
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
