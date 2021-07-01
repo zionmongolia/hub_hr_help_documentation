@@ -11,6 +11,6 @@
 Үүнд:
 
 - [Ерөнхий](data_imports/overview.md)
-- [Үйлдэл](data_imports/DataImportAction.md)
-- [Импорт хийх процесс](data_imports/DataImportProcess.md)
-- [Зөвлөмж](data_imports/DataImportAdvice.md)
+- [Үйлдэл](data_imports/dataImportAction.md)
+- [Импорт хийх процесс](data_imports/dataImportProcess.md)
+- [Зөвлөмж](data_imports/dataImportAdvice.md)

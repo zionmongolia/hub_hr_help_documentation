@@ -81,9 +81,9 @@
 
 - <img src="assets/images/modules/data_imports.svg" style="width:36px;"/> ДАТА ИМПОРТ
     - [Ерөнхий](data_imports/overview.md)
-    - [Үйлдэл](data_imports/DataImportAction.md)
-    - [Импорт хийх процесс](data_imports/DataImportProcess.md)
-    - [Зөвлөмж](data_imports/DataImportAdvice.md)
+    - [Үйлдэл](data_imports/dataImportAction.md)
+    - [Импорт хийх процесс](data_imports/dataImportProcess.md)
+    - [Зөвлөмж](data_imports/dataImportAdvice.md)
 
 - <img src="assets/images/modules/reports.svg" style="width:36px;"/> ТАЙЛАН
     - [Ерөнхий](reports/overview.md)
