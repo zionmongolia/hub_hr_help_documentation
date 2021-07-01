@@ -26,7 +26,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - name: copy file
-        run: cp ./ "/u01/app/oracle/middleware/user_projects/domains/base_domain/config/fmwconfig/components/OHS/ohs1/htdocs/help"
+        run: cp -r ./ "/u01/app/oracle/middleware/user_projects/domains/base_domain/config/fmwconfig/components/OHS/ohs1/htdocs/help"
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
