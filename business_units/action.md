@@ -10,13 +10,13 @@
 
   Жагсаалтын цонхны баруун дээд буланд байршина.
 
-  ![](../assets/images/modules/Business_units/menuGlobal.png)
+  ![](../assets/images/modules/business_units/menuGlobal.png)
 
 - ### 2. Контекст цэс
 
   Жагсаалтын цонхны үр дүн харуулах хэсэгт мөр дэх жижиг сум хэлбэртэй цэсийг контекст цэс гэнэ.
 
-  ![](../assets/images/modules/Business_units/menuContext.png)
+  ![](../assets/images/modules/business_units/menuContext.png)
 
 ## Салбар нэгж модулийн үйлдлүүд
 Салбар нэгж модуль дээр дараах үйлдлүүдийг хийж болно.
@@ -47,7 +47,7 @@
   - Салбар нэгжийн жагсаалтад шинэ бичлэг нэмэгдэнэ.
   - Салбар нэгжийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Business_units/action_new.png)
+![](../assets/images/modules/business_units/action_new.png)
 
 
 ### Жагсаалт экспортлох
@@ -62,7 +62,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Business_units/action_export.png)
+![](../assets/images/modules/business_units/action_export.png)
 
 
 ### Салбар нэгжийн профайль
@@ -77,7 +77,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Business_units/action_view.png)
+![](../assets/images/modules/business_units/action_view.png)
 
 
 ### Салбар нэгж засах
@@ -94,7 +94,7 @@
   - Салбар нэгжийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Салбар нэгжийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Business_units/action_edit.png)
+![](../assets/images/modules/business_units/action_edit.png)
 
 
 ### Үндсэн салбар нэгж болгох
@@ -111,7 +111,7 @@
   - Салбар нэгжийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Салбар нэгжийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Business_units/action_primary.png)
+![](../assets/images/modules/business_units/action_primary.png)
 
 
 ### Салбар нэгж түр түдгэлзүүлэх
@@ -134,7 +134,7 @@
   - Ажилтан, ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Business_units/action_suspend.png)
+![](../assets/images/modules/business_units/action_suspend.png)
 
 
 ### Салбар нэгж идэвхтэй болгох
@@ -157,7 +157,7 @@
   - Ажилтан, ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжтой болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжтой болно.
 
-![](../assets/images/modules/Business_units/action_activate.png)
+![](../assets/images/modules/business_units/action_activate.png)
 
 
 ### Салбар нэгж татан буулгах
@@ -183,7 +183,7 @@
   - Ажилтан, ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Business_units/action_dissolve.png)
+![](../assets/images/modules/business_units/action_dissolve.png)
 
 
 ### Салбар нэгж устгах
@@ -208,6 +208,6 @@
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Тухайн салбар нэгжийг ашигласан бүх мэдээлэл устана.
 
-![](../assets/images/modules/Business_units/action_delete.png)
+![](../assets/images/modules/business_units/action_delete.png)
 
 

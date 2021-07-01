@@ -10,13 +10,13 @@
 
   Жагсаалтын цонхны баруун дээд буланд байршина.
 
-  ![](../assets/images/modules/Resources/menuGlobal.png)
+  ![](../assets/images/modules/resources/menuGlobal.png)
 
 - ### 2. Контекст цэс
 
   Жагсаалтын цонхны үр дүн харуулах хэсэгт мөр дэх жижиг сум хэлбэртэй цэсийг контекст цэс гэнэ.
 
-  ![](../assets/images/modules/Resources/menuContext.png)
+  ![](../assets/images/modules/resources/menuContext.png)
 
 ## Нөөцийн бүртгэлийн үйлдлүүд
 Нөөцийн бүртгэл модуль дээр дараах үйлдлүүдийг хийж болно.
@@ -52,7 +52,7 @@
   - Нөөцийн бүртгэлийн жагсаалтад шинэ бичлэг нэмэгдэнэ.
   - Нөөцийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Resources/action_new.png)
+![](../assets/images/modules/resources/action_new.png)
 
 
 ### Жагсаалт экспортлох
@@ -67,7 +67,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Resources/action_export.png)
+![](../assets/images/modules/resources/action_export.png)
 
 
 ### Нөөцийн бүртгэлийн профайль
@@ -82,7 +82,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Resources/action_view.png)
+![](../assets/images/modules/resources/action_view.png)
 
 
 ### Нөөцийн бүртгэл засах
@@ -99,7 +99,7 @@
   - Нөөцийн бүртгэлийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Нөөцийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Resources/action_edit.png)
+![](../assets/images/modules/resources/action_edit.png)
 
 
 ### Нөөцийн бүртгэл залруулах
@@ -116,7 +116,7 @@
   - Нөөцийн бүртгэлийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Нөөцийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Resources/action_correct.png)
+![](../assets/images/modules/resources/action_correct.png)
 
 
 ### Нөөцийн бүртгэл идэвхгүй болгох
@@ -135,7 +135,7 @@
   - Нөөцийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Нөөцийн бүртгэлийн өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Resources/action_inactive.png)
+![](../assets/images/modules/resources/action_inactive.png)
 
 
 ### Нөөцийн бүртгэл түр түдгэлзүүлэх
@@ -154,7 +154,7 @@
   - Нөөцийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Нөөцийн бүртгэлийн өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Resources/action_suspend.png)
+![](../assets/images/modules/resources/action_suspend.png)
 
 
 ### Нөөцийн бүртгэл идэвхтэй болгох
@@ -173,7 +173,7 @@
   - Нөөцийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Нөөцийн бүртгэлийн өөрчлөх үйлдлүүд хийх боломжтой болно.
 
-![](../assets/images/modules/Resources/action_activate.png)
+![](../assets/images/modules/resources/action_activate.png)
 
 
 ### Нөөцийн бүртгэл баталгаажуулах хүсэлт илгээх
@@ -191,7 +191,7 @@
   - Нөөцийн бүртгэлийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Нөөцийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Resources/action_submit.png)
+![](../assets/images/modules/resources/action_submit.png)
 
 
 ### Нөөцийн бүртгэл татгалзах
@@ -209,7 +209,7 @@
   - Нөөцийн бүртгэлийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Нөөцийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Resources/action_reject.png)
+![](../assets/images/modules/resources/action_reject.png)
 
 
 ### Нөөцийн бүртгэл зөвшөөрөх
@@ -228,7 +228,7 @@
   - Нөөцийн бүртгэлийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Нөөцийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Resources/action_accept.png)
+![](../assets/images/modules/resources/action_accept.png)
 
 
 ### Нөөцийн бүртгэл устгах
@@ -247,7 +247,7 @@
   - Нөөцийн бүртгэлийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Нөөцийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Resources/action_delete.png)
+![](../assets/images/modules/resources/action_delete.png)
 
 
 ### Нөөцийн бүртгэл шилжүүлэх
@@ -265,4 +265,4 @@
   - Нөөцийн бүртгэлийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Нөөцийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Resources/action_move.png)
+![](../assets/images/modules/resources/action_move.png)

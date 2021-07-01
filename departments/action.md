@@ -9,13 +9,13 @@
 
   Жагсаалтын цонхны баруун дээд буланд байршина.
 
-  ![](../assets/images/modules/Departments/menuGlobal.png)
+  ![](../assets/images/modules/departments/menuGlobal.png)
 
 - ### 2. Контекст цэс
 
   Жагсаалтын цонхны үр дүн харуулах хэсэгт мөр дэх жижиг сум хэлбэртэй цэсийг контекст цэс гэнэ.
 
-  ![](../assets/images/modules/Departments/menuContext.png)
+  ![](../assets/images/modules/departments/menuContext.png)
 
 ## Дотоод нэгж модулийн үйлдлүүд
 Дотоод нэгж модуль дээр дараах үйлдлүүдийг хийж болно.
@@ -45,7 +45,7 @@
   - Дотоод нэгжийн жагсаалтад шинэ бичлэг нэмэгдэнэ.
   - Дотоод нэгжийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Departments/action_new.png)
+![](../assets/images/modules/departments/action_new.png)
 
 
 ### Жагсаалт экспортлох
@@ -60,7 +60,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Departments/action_export.png)
+![](../assets/images/modules/departments/action_export.png)
 
 
 ### Дотоод нэгжийн профайль
@@ -75,7 +75,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Departments/action_view.png)
+![](../assets/images/modules/departments/action_view.png)
 
 
 ### Дотоод нэгж засах
@@ -92,7 +92,7 @@
   - Дотоод нэгжийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Дотоод нэгжийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Departments/action_edit.png)
+![](../assets/images/modules/departments/action_edit.png)
 
 
 ### Дотоод нэгж түр түдгэлзүүлэх
@@ -114,7 +114,7 @@
   - Ажилтан, ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Departments/action_suspend.png)
+![](../assets/images/modules/departments/action_suspend.png)
 
 
 ### Дотоод нэгж идэвхтэй болгох
@@ -136,7 +136,7 @@
   - Ажилтан, ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжтой болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжтой болно.
 
-![](../assets/images/modules/Departments/action_activate.png)
+![](../assets/images/modules/departments/action_activate.png)
 
 
 ### Дотоод нэгж татан буулгах
@@ -160,7 +160,7 @@
   - Ажилтан, ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Departments/action_dissolve.png)
+![](../assets/images/modules/departments/action_dissolve.png)
 
 
 ### Дотоод нэгж устгах
@@ -184,7 +184,7 @@
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Тухайн дотоод нэгжийг ашигласан бүх мэдээлэл устана.
 
-![](../assets/images/modules/Departments/action_delete.png)
+![](../assets/images/modules/departments/action_delete.png)
 
 
 

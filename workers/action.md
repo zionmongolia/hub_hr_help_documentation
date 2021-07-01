@@ -16,7 +16,7 @@
 
   Жагсаалтын цонхны үр дүн харуулах хэсэгт мөр дэх жижиг сум хэлбэртэй цэсийг контекст цэс гэнэ.
 
-  ![](../assets/images/modules/Workers/menuContext.png)
+  ![](../assets/images/modules/workers/menuContext.png)
 
 ## Ажилтан, ажил эрхлэлтийн үйлдлүүд
 Ажилтан модуль дээр дараах үйлдлүүдийг хийж болно.
@@ -56,7 +56,7 @@
   - Ажилтан, ажил эрхлэлтийн жагсаалтад шинэ бичлэг нэмэгдэнэ.
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Workers/action_worker_new.png)
+![](../assets/images/modules/workers/action_worker_new.png)
 
 
 ### Жагсаалт экспортлох
@@ -71,7 +71,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Workers/action_export.png)
+![](../assets/images/modules/workers/action_export.png)
 
 
 ### Ажилтны профайль
@@ -86,7 +86,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Workers/action_worker_view.png)
+![](../assets/images/modules/workers/action_worker_view.png)
 
 
 ### Ажилтны үндсэн мэдээлэл өөрчлөх
@@ -103,7 +103,7 @@
   - Ажилтан, ажил эрхлэлтийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Workers/action_worker_update.png)
+![](../assets/images/modules/workers/action_worker_update.png)
 
 
 ### Шинэ ажил эрхлэлт нэмэх
@@ -121,7 +121,7 @@
   - Ажилтан, ажил эрхлэлтийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Workers/action_employment_new.png)
+![](../assets/images/modules/workers/action_employment_new.png)
 
 
 ### Ажилтны үндсэн мэдээллийн залруулга
@@ -138,7 +138,7 @@
   - Ажилтан, ажил эрхлэлтийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Workers/action_worker_correct.png)
+![](../assets/images/modules/workers/action_worker_correct.png)
 
 
 ### Ажлын харилцаа дуусгавар болгох
@@ -158,7 +158,7 @@
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
  
 
-![](../assets/images/modules/Workers/action_worker_terminate.png)
+![](../assets/images/modules/workers/action_worker_terminate.png)
 
 
 ### Ажил эрхлэлт өөрчлөх
@@ -175,7 +175,7 @@
   - Ажилтан, ажил эрхлэлтийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Workers/action_worker_update.png)
+![](../assets/images/modules/workers/action_worker_update.png)
 
 
 ### Ажил эрхлэлт залруулга
@@ -192,7 +192,7 @@
   - Ажилтан, ажил эрхлэлтийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Workers/action_worker_correct.png)
+![](../assets/images/modules/workers/action_worker_correct.png)
 
 
 ### Үндсэн ажил эрхлэлт болгох
@@ -209,7 +209,7 @@
   - Ажилтан, ажил эрхлэлтийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Workers/action_employment_primary.png)
+![](../assets/images/modules/workers/action_employment_primary.png)
 
 
 ### Ажил эрхлэлтийг түр чөлөөлөх
@@ -228,7 +228,7 @@
   - Ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Workers/action_worker_employment_absent.png)
+![](../assets/images/modules/workers/action_worker_employment_absent.png)
 
 
 ### Ажил эрхлэлт түр түдгэлзүүлэх
@@ -248,7 +248,7 @@
   - Ажилтан, ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Departments/action_employment_suspend.png)
+![](../assets/images/modules/departments/action_employment_suspend.png)
 
 
 ### Ажил эрхлэлт идэвхтэй болгох
@@ -268,7 +268,7 @@
   - Ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжтой болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжтой болно.
 
-![](../assets/images/modules/Workers/action_employment_activate.png)
+![](../assets/images/modules/workers/action_employment_activate.png)
 
 
 ### Ажил эрхлэлт дуусгавар болгох
@@ -288,7 +288,7 @@
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
  
 
-![](../assets/images/modules/Workers/action_worker_terminate.png)
+![](../assets/images/modules/workers/action_worker_terminate.png)
 
 
 ### Ажил эрхлэлт шилжүүлэх
@@ -306,7 +306,7 @@
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Ажилтны ажлын түүхийн мэдээлэл өөрчлөгдөнө. 
 
-![](../assets/images/modules/Workers/action_employment_transfer.png)
+![](../assets/images/modules/workers/action_employment_transfer.png)
 
 
 ### Үндсэн цалин нэмэх
@@ -323,7 +323,7 @@
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Цалин хөлсний мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Workers/action_grade_worker_salary.png)
+![](../assets/images/modules/workers/action_grade_worker_salary.png)
 
 
 ### Ажилтны нэмэгдэл цалин хөлс нэмэх
@@ -340,4 +340,4 @@
   - Ажилтан, ажил эрхлэлтийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Цалин хөлсний мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Workers/action_grade_worker_compensation.png)
+![](../assets/images/modules/workers/action_grade_worker_compensation.png)

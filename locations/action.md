@@ -10,13 +10,13 @@
 
   Жагсаалтын цонхны баруун дээд буланд байршина.
 
-  ![](../assets/images/modules/Locations/menuGlobal.png)
+  ![](../assets/images/modules/locations/menuGlobal.png)
 
 - ### 2. Контекст цэс
 
   Жагсаалтын цонхны үр дүн харуулах хэсэгт мөр дэх жижиг сум хэлбэртэй цэсийг контекст цэс гэнэ.
 
-  ![](../assets/images/modules/Locations/menuContext.png)
+  ![](../assets/images/modules/locations/menuContext.png)
 
 ## Байршлын үйлдлүүд
 Байршил модуль дээр дараах үйлдлүүдийг хийж болно.
@@ -45,7 +45,7 @@
   - Байршлын жагсаалтад шинэ бичлэг нэмэгдэнэ.
   - Байршлын тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Locations/action_new.png)
+![](../assets/images/modules/locations/action_new.png)
 
 
 ### Жагсаалт экспортлох
@@ -60,7 +60,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Locations/action_export.png)
+![](../assets/images/modules/locations/action_export.png)
 
 
 ### Байршлын профайль
@@ -75,7 +75,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Locations/action_view.png)
+![](../assets/images/modules/locations/action_view.png)
 
 
 ### Байршил засах
@@ -92,7 +92,7 @@
   - Байршлын жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Байршлын тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Locations/action_edit.png)
+![](../assets/images/modules/locations/action_edit.png)
 
 
 ### Байршил идэвхгүй болгох
@@ -111,7 +111,7 @@
   - Байршлын тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Байршлын өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Locations/action_inactive.png)
+![](../assets/images/modules/locations/action_inactive.png)
 
 
 ### Байршил идэвхтэй болгох
@@ -130,7 +130,7 @@
   - Байршлын тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Байршлын өөрчлөх үйлдлүүд хийх боломжтой болно.
 
-![](../assets/images/modules/Locations/action_activate.png)
+![](../assets/images/modules/locations/action_activate.png)
 
 
 ### Байршил устгах
@@ -151,4 +151,4 @@
   - Байршлын өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Тухайн байршлыг ашигласан бүх мэдээлэл устана.
 
-![](../assets/images/modules/Locations/action_delete.png)
+![](../assets/images/modules/locations/action_delete.png)

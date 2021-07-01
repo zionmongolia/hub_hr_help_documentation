@@ -10,13 +10,13 @@
 
   Жагсаалтын цонхны баруун дээд буланд байршина.
 
-  ![](../assets/images/modules/Disciplinaries/menuGlobal.png)
+  ![](../assets/images/modules/disciplinaries/menuGlobal.png)
 
 - ### 2. Контекст цэс
 
   Жагсаалтын цонхны үр дүн харуулах хэсэгт мөр дэх жижиг сум хэлбэртэй цэсийг контекст цэс гэнэ.
 
-  ![](../assets/images/modules/Disciplinaries/menuContext.png)
+  ![](../assets/images/modules/disciplinaries/menuContext.png)
 
 ## Сахилгын зөрчлийн үйлдлүүд
 Сахилгын зөрчил модуль дээр дараах үйлдлүүдийг хийж болно.
@@ -51,7 +51,7 @@
   - Сахилгын зөрчлийн жагсаалтад шинэ бичлэг нэмэгдэнэ.
   - Сахилгын зөрчлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Disciplinaries/action_new.png)
+![](../assets/images/modules/disciplinaries/action_new.png)
 
 
 ### Жагсаалт экспортлох
@@ -66,7 +66,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Disciplinaries/action_export.png)
+![](../assets/images/modules/disciplinaries/action_export.png)
 
 
 ### Сахилгын зөрчлийн бүртгэлийн профайль
@@ -81,7 +81,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Disciplinaries/action_view.png)
+![](../assets/images/modules/disciplinaries/action_view.png)
 
 
 ### Сахилгын зөрчил засах
@@ -98,7 +98,7 @@
   - Сахилгын зөрчлийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Сахилгын зөрчлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Disciplinaries/action_edit.png)
+![](../assets/images/modules/disciplinaries/action_edit.png)
 
 
 ### Сахилгын зөрчил залруулах
@@ -115,7 +115,7 @@
   - Сахилгын зөрчлийн жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Сахилгын зөрчлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Disciplinaries/action_correct.png)
+![](../assets/images/modules/disciplinaries/action_correct.png)
 
 
 ### Сахилгын зөрчил шалгах
@@ -133,7 +133,7 @@
   - Сахилгын зөрчлийн бүртгэлийн жагсаалтын мэдээлэл өөрчлөгдөнө
   - Сахилгын зөрчлийн бүртгэлийн тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Disciplinaries/action_inprogress.png)
+![](../assets/images/modules/disciplinaries/action_inprogress.png)
 
 
 ### Сахилгын зөрчил хаах
@@ -152,7 +152,7 @@
   - Сахилгын зөрчил тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Сахилгын зөрчлийн бүртгэлийн өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Disciplinaries/action_complete.png)
+![](../assets/images/modules/disciplinaries/action_complete.png)
 
 
 ### Сахилгын зөрчил цагаатгах
@@ -170,7 +170,7 @@
   - Сахилгын зөрчил жагсаалтын мэдээлэл өөрчлөгдөнө
   - Сахилгын зөрчил тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Disciplinaries/action_purge.png)
+![](../assets/images/modules/disciplinaries/action_purge.png)
 
 
 ### Сахилгын зөрчил баталгаажуулах хүсэлт илгээх
@@ -188,7 +188,7 @@
   - Сахилгын зөрчил жагсаалтын мэдээлэл өөрчлөгдөнө
   - Сахилгын зөрчил тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Disciplinaries/action_submit.png)
+![](../assets/images/modules/disciplinaries/action_submit.png)
 
 
 ### Сахилгын зөрчил татгалзах
@@ -207,7 +207,7 @@
   - Сахилгын зөрчил жагсаалтын мэдээлэл өөрчлөгдөнө
   - Сахилгын зөрчил тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Disciplinaries/action_reject.png)
+![](../assets/images/modules/disciplinaries/action_reject.png)
 
 
 ### Сахилгын зөрчил хүлээн авах
@@ -226,7 +226,7 @@
   - Сахилгын зөрчил жагсаалтын мэдээлэл өөрчлөгдөнө
   - Сахилгын зөрчил тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Disciplinaries/action_accept.png)
+![](../assets/images/modules/disciplinaries/action_accept.png)
 
 
 ### Сахилгын зөрчил устгах
@@ -245,5 +245,5 @@
   - Сахилгын зөрчил жагсаалтын мэдээлэл өөрчлөгдөнө
   - Сахилгын зөрчил тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Disciplinaries/action_delete.png)
+![](../assets/images/modules/disciplinaries/action_delete.png)
 

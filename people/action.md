@@ -10,13 +10,13 @@
 
   Жагсаалтын цонхны баруун дээд буланд байршина.
 
-  ![](../assets/images/modules/People/menuGlobal.png)
+  ![](../assets/images/modules/people/menuGlobal.png)
 
 - ### 2. Контекст цэс
 
   Жагсаалтын цонхны үр дүн харуулах хэсэгт мөр дэх жижиг сум хэлбэртэй цэсийг контекст цэс гэнэ.
 
-  ![](../assets/images/modules/People/menuContext.png)
+  ![](../assets/images/modules/people/menuContext.png)
 
 ## Хүний удирдлагын үйлдлүүд
 Хүний удирдлага модуль дээр дараах үйлдлүүдийг хийж болно.
@@ -45,7 +45,7 @@
   - Хүний удирдлагын жагсаалтад шинэ бичлэг нэмэгдэнэ.
   - Хүний удирдлагын тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/People/action_new.png)
+![](../assets/images/modules/people/action_new.png)
 
 
 ### Жагсаалт экспортлох
@@ -60,7 +60,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/People/action_export.png)
+![](../assets/images/modules/people/action_export.png)
 
 
 ### Хүний профайль
@@ -75,7 +75,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/People/action_view.png)
+![](../assets/images/modules/people/action_view.png)
 
 
 ### Хүний мэдээлэл засах
@@ -92,7 +92,7 @@
   - Хүний удирдлагын жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Хүний удирдлагын тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/People/action_edit.png)
+![](../assets/images/modules/people/action_edit.png)
 
 
 ### Хүний мэдээлэл идэвхгүй болгох
@@ -111,7 +111,7 @@
   - Хүний удирдлагын тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
 
-![](../assets/images/modules/People/action_inactive.png)
+![](../assets/images/modules/people/action_inactive.png)
 
 
 ### Хүний мэдээлэл идэвхтэй болгох
@@ -132,7 +132,7 @@
   - Ажилтан, ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжтой болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжтой болно.
 
-![](../assets/images/modules/People/action_activate.png)
+![](../assets/images/modules/people/action_activate.png)
 
 
 ### Хүний мэдээлэл устгах
@@ -154,4 +154,4 @@
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Тухайн хүнд ашигласан бүх мэдээлэл устана.
 
-![](../assets/images/modules/People/action_delete.png)
+![](../assets/images/modules/people/action_delete.png)

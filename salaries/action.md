@@ -8,12 +8,12 @@
 - ### 1. Ерөнхий цэс
 
   Жагсаалтын цонхны баруун дээд буланд байршина.
-  ![](../assets/images/modules/Salaries/menuGlobal.png)
+  ![](../assets/images/modules/salaries/menuGlobal.png)
 
 - ### 2. Контекст цэс
 
   Жагсаалтын цонхны үр дүн харуулах хэсэгт мөр дэх жижиг сум хэлбэртэй цэсийг контекст цэс гэнэ.
-  ![](../assets/images/modules/Salaries/menuContext.png)
+  ![](../assets/images/modules/salaries/menuContext.png)
 
 ## Цалин хөлсний үйлдлүүд
 Цалин хөлс модуль дээр дараах үйлдлүүдийг хийж болно.
@@ -45,7 +45,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Salaries/action_export.png)
+![](../assets/images/modules/salaries/action_export.png)
 
 
 ### Цалин хөлсний профайль
@@ -60,7 +60,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Salaries/action_view.png)
+![](../assets/images/modules/salaries/action_view.png)
 
 
 ### Цалин хөлс засах
@@ -77,7 +77,7 @@
   - Цалин хөлсний жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Цалин хөлсний тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Salaries/action_edit.png)
+![](../assets/images/modules/salaries/action_edit.png)
 
 
 ### Үндсэн цалин хөлс идэвхтэй болгох
@@ -96,7 +96,7 @@
   - Үндсэн цалин хөлсний тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Үндсэн цалин хөлсний өөрчлөх үйлдлүүд хийх боломжтой болно.
  
-![](../assets/images/modules/Salaries/action_activate.png)
+![](../assets/images/modules/salaries/action_activate.png)
 
 
 ### Үндсэн цалин хөлс идэвхгүй болгох
@@ -115,7 +115,7 @@
   - Үндсэн цалин хөлсний тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Үндсэн цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Salaries/action_inactivate.png)
+![](../assets/images/modules/salaries/action_inactivate.png)
 
 
 ### Үндсэн цалин хөлс түр түдгэлзүүлэх
@@ -134,7 +134,7 @@
   - Үндсэн цалин хөлсний тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Үндсэн цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Salaries/action_suspend.png)
+![](../assets/images/modules/salaries/action_suspend.png)
 
 
 ### Үндсэн цалин хөлс залруулга
@@ -187,7 +187,7 @@
   - Нэмэгдэл цалин хөлсний жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Нэмэгдэл цалин хөлсний тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Salaries/action_compensation_edit.png)
+![](../assets/images/modules/salaries/action_compensation_edit.png)
 
 
 ### Нэмэгдэл цалин хөлс идэвхтэй болгох
@@ -206,7 +206,7 @@
   - Нэмэгдэл цалин хөлсний тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Нэмэгдэл цалин хөлсний өөрчлөх үйлдлүүд хийх боломжтой болно.
  
-![](../assets/images/modules/Salaries/action_compensation_activate.png)
+![](../assets/images/modules/salaries/action_compensation_activate.png)
  
  ### Нэмэгдэл цалин хөлс түр түдгэлзүүлэх
 
@@ -224,7 +224,7 @@
   - Нэмэгдэл цалин хөлсний тайлангийн тоон мэдээлэл өөрчлөгдөнө.
   - Нэмэгдэл цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Salaries/action_compensation_suspend.png)
+![](../assets/images/modules/salaries/action_compensation_suspend.png)
 
 ### Нэмэгдэл цалин хөлсийг дуусгавар болгох
 

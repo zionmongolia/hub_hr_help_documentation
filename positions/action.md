@@ -10,13 +10,13 @@
 
   Жагсаалтын цонхны баруун дээд буланд байршина.
 
-  ![](../assets/images/modules/Positions/menuGlobal.png)
+  ![](../assets/images/modules/positions/menuGlobal.png)
 
 - ### 2. Контекст цэс
 
   Жагсаалтын цонхны үр дүн харуулах хэсэгт мөр дэх жижиг сум хэлбэртэй цэсийг контекст цэс гэнэ.
 
-  ![](../assets/images/modules/Positions/menuContext.png)
+  ![](../assets/images/modules/positions/menuContext.png)
 
 ## Ажлын байр модулийн үйлдлүүд
 Ажлын байр модуль дээр дараах үйлдлүүдийг хийж болно.
@@ -48,7 +48,7 @@
   - Ажлын байрны жагсаалтад шинэ бичлэг нэмэгдэнэ.
   - Ажлын байрны тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Positions/action_new.png)
+![](../assets/images/modules/positions/action_new.png)
 
 
 ### Жагсаалт экспортлох
@@ -63,7 +63,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Positions/action_export.png)
+![](../assets/images/modules/positions/action_export.png)
 
 
 ### Ажлын байрны профайль
@@ -78,7 +78,7 @@
   Энэхүү үйлдлийг хийх үед бусад мэдээлэлд хэрхэн нөлөөлөх нөлөөллийг заана. Үүнд:
   - Систем дээр ямар нэгэн нөлөөлөл байхгүй байна
 
-![](../assets/images/modules/Positions/action_view.png)
+![](../assets/images/modules/positions/action_view.png)
 
 
 ### Ажлын байр засах
@@ -95,7 +95,7 @@
   - Ажлын байрны жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Ажлын байрны тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Positions/action_edit.png)
+![](../assets/images/modules/positions/action_edit.png)
 
 
 ### Ажлын байр идэвхгүй болгох
@@ -116,7 +116,7 @@
   - Ажилтан, ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Positions/action_inactive.png)
+![](../assets/images/modules/positions/action_inactive.png)
 
 
 ### Ажлын байр идэвхтэй болгох
@@ -137,7 +137,7 @@
   - Ажилтан, ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжтой болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжтой болно.
 
-![](../assets/images/modules/Positions/action_activate.png)
+![](../assets/images/modules/positions/action_activate.png)
 
 
 ### Ажлын байр түр түдгэлзүүлэх
@@ -158,7 +158,7 @@
   - Ажилтан, ажил эрхлэлтийн өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
 
-![](../assets/images/modules/Departments/action_suspend.png)
+![](../assets/images/modules/departments/action_suspend.png)
 
 
 ### Ажлын байр зөөх
@@ -176,7 +176,7 @@
   - Ажлын байрны жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Ажлын байрны тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Positions/action_move.png)
+![](../assets/images/modules/positions/action_move.png)
 
 
 ### Ажлын байр хуулбарлах
@@ -195,7 +195,7 @@
   - Ажлын байрны жагсаалтын мэдээлэл өөрчлөгдөнө.
   - Ажлын байрны тайлангийн тоон мэдээлэл өөрчлөгдөнө.
 
-![](../assets/images/modules/Positions/action_duplicate.png)
+![](../assets/images/modules/positions/action_duplicate.png)
 
 
 ### Ажлын байр устгах
@@ -218,4 +218,4 @@
   - Цалин хөлсний өөрчлөх үйлдлүүд хийх боломжгүй болно.
   - Тухайн ажлын байрыг ашигласан бүх мэдээлэл устана.
 
-![](../assets/images/modules/Positions/action_delete.png)
+![](../assets/images/modules/positions/action_delete.png)
