@@ -1,12 +1,12 @@
 
-<h1 align="center"><img src="../assets/images/modules/legal_entities.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Албан байгууллага</h1>
+<h1 align="center"><img src="../assets/images/modules/legal_entities.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Албан байгууллага модуль</h1>
 
-Хуулийн дагуу үйл ажиллагаа явуулах хуулийн этгээдийг хүний нөөцийн системд  **албан байгууллага** гэж ойлгоно. 
+Хуулийн дагуу үйл ажиллагаа явуулах хуулийн этгээдийг төрийн албаны хүний нөөцийн нэгдсэн системд  **албан байгууллага** гэж ойлгоно. 
 <br>
 
 ![](../assets/images/modules/legal_entities/home.png)
 
-Хүний нөөцийн системийн албан байгууллага модуль нь дараах хэсгээс бүрдэнэ.
+Төрийн албаны хүний нөөцийн нэгдсэн системийн албан байгууллага модуль нь дараах хэсгээс бүрдэнэ.
 
 Үүнд:
 

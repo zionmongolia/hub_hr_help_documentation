@@ -1,12 +1,13 @@
 
-<h1 align="center"><img src="../assets/images/modules/disciplinaries.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Сахилгын зөрчил</h1>
+<h1 align="center"><img src="../assets/images/modules/disciplinaries.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Сахилгын зөрчил модуль</h1>
 
-Хуулийн дагуу үйл ажиллагаа явуулах хуулийн этгээдийг хүний нөөцийн системд  **сахилгын зөрчил** гэж ойлгоно. 
+Байгууллага нь сахилгын зөрчлийг бүртгэх, мэдээллийг өөрчлөх, удирдахыг төрийн албаны хүний нөөцийн нэгдсэн системд **сахилгын зөрчил** модулиар зохион байгуулна. 
 <br>
+
 
 ![](../assets/images/modules/disciplinaries/home.png)
 
-Хүний нөөцийн системийн сахилгын зөрчил модуль нь дараах хэсгээс бүрдэнэ.
+Төрийн албаны хүний нөөцийн нэгдсэн системийн сахилгын зөрчил модуль нь дараах хэсгээс бүрдэнэ.
 
 Үүнд:
 
