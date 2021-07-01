@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="../assets/images/modules/workers.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Ажилтан модуль</h1>
+<h1 align="center"><img src="assets/images/modules/workers.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Ажилтан модуль</h1>
 
 Байгууллагад ажилд орсноос эхлэн ажлын харилцаа дуусгавар болох хүртлэх үйл явцыг төрийн албаны хүний нөөцийн нэгдсэн системд  **ажилтан** модуль зохион байгуулж удирдана.Энэхүү модульд ажилтны хувийн профайлийн мэдээлэл, ажил эрхлэлт, шилжилт хөдөлгөөн, цалин, нэмэгдэл хөлс гэх мэт ажилтан, ажил эрхлэлттэй холбоотой мэдээллийг үүсгэх, өөрчлөх боломжийг олгоно.
 <br>

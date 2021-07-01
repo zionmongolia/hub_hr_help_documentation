@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="../assets/images/modules/legal_entities.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Албан байгууллага модуль</h1>
+<h1 align="center"><img src="assets/images/modules/legal_entities.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Албан байгууллага модуль</h1>
 
 Хуулийн дагуу үйл ажиллагаа явуулах хуулийн этгээдийг төрийн албаны хүний нөөцийн нэгдсэн системд  **албан байгууллага** гэж ойлгоно. 
 <br>

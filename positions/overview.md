@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="../assets/images/modules/positions.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Ажлын байр модуль</h1>
+<h1 align="center"><img src="assets/images/modules/positions.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Ажлын байр модуль</h1>
 
   Байгууллага өөрийн зорилго, зорилтод хүрэхийн тулд салбар нэгж, дотоод нэгжид удирдах, гүйцэтгэх, туслах түвшинд ажлын байр, орон тоогоо төлөвлөж
   бүтцээ тодорхойлдог. Ажлын байр, орон тоо бүртгэж үүсгэх, өөрчлөх, удирдахыг төрийн албаны хүний нөөцийн нэгдсэн системд **ажлын байр** модулиар зохион байгуулна. 

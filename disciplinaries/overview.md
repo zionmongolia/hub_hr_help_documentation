@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="../assets/images/modules/disciplinaries.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Сахилгын зөрчил модуль</h1>
+<h1 align="center"><img src="assets/images/modules/disciplinaries.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Сахилгын зөрчил модуль</h1>
 
 Байгууллага нь сахилгын зөрчлийг бүртгэх, мэдээллийг өөрчлөх, удирдахыг төрийн албаны хүний нөөцийн нэгдсэн системд **сахилгын зөрчил** модулиар зохион байгуулна. 
 <br>

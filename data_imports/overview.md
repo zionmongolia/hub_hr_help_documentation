@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="../assets/images/modules/data_imports.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Дата импорт модуль</h1>
+<h1 align="center"><img src="assets/images/modules/data_imports.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Дата импорт модуль</h1>
 
 Дата импорт модуль нь их хэмжээний өгөгдлийг системд оруулахад хэрэглэгчийн үйл ажиллагааг хөнгөвчлөх, цаг хугацааг хэмнэх зорилготой юм.
 <br>

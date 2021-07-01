@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="../assets/images/modules/people.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Хүний удирдлага модуль</h1>
+<h1 align="center"><img src="assets/images/modules/people.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Хүний удирдлага модуль</h1>
 
 Байгууллагатай холбогдсон хүнийг төрийн албаны хүний нөөцийн нэгдсэн системд  **хүний удирдлага** модуль зохион байгуулж удирдана.Энэхүү модульд ажилтны хувийн профайлийн мэдээллийг өөрчлөх боломжийг олгоно.
 <br>

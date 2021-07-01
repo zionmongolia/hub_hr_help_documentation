@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="../assets/images/modules/salaries.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Цалин хөлс модуль</h1>
+<h1 align="center"><img src="assets/images/modules/salaries.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Цалин хөлс модуль</h1>
 
 Ажилтны үндсэн болон нэмэгдэл цалин хөлстэй холбоотой мэдээллийг бүртгэх, өөрчлөх үйл ажмллагааг төрийн албаны хүний нөөцийн нэгдсэн системд  **цалин хөлс** модуль зохион байгуулж удирдана.
 <br>

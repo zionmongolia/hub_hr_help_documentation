@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="../assets/images/modules/resources.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Нөөцийн бүртгэл модуль</h1>
+<h1 align="center"><img src="assets/images/modules/resources.svg" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Нөөцийн бүртгэл модуль</h1>
 
 Байгууллага нь нөөцөд хүнийг бүртгэх, мэдээллийг өөрчлөх, удирдахыг төрийн албаны хүний нөөцийн нэгдсэн системд **нөөцийн бүртгэл** модулиар зохион байгуулна. 
 <br>
